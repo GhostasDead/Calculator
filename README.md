@@ -26,4 +26,4 @@ I will see other people codes and repos to improve the app later.
 -more impressive design and colors.
 
 
-me: Ahmad Salahieh
+* me: Ahmad Salahieh
