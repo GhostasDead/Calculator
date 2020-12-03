@@ -1,12 +1,11 @@
 ﻿using System;
 using System.Windows.Forms;
+//using Ahmad.Salahieh;
 
 namespace Calculator
 {
     public partial class Calculator : Form
     {
-        
-        
         public Calculator()
         {
             InitializeComponent();
