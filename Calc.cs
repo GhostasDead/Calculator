@@ -10,7 +10,7 @@ namespace Calculator
         {
             InitializeComponent();
         }
-
+        
         private void NumClick(string num)
         {// مثود طباعة الرقم المناسب عند الضغط 
             if (inOut.Text.Length > 1)
